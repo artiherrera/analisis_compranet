@@ -1,0 +1,22 @@
+# conda env create --file environment.yml
+name: compranet
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - fs
+  - jupyter
+  - jupyterlab
+  - pathlib
+  - pandas
+  - matplotlib
+  - seaborn
+  - numpy
+  
+  - pip
+  - pyprojroot
+  - python=3.9
+  - pip:
+    - pyhere
+    
