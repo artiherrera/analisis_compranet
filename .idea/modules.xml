@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../clemente_c/.idea/clemente_c.iml" filepath="$PROJECT_DIR$/../clemente_c/.idea/clemente_c.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/compranet.iml" filepath="$PROJECT_DIR$/.idea/compranet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../informe_sam/.idea/informe_sam.iml" filepath="$PROJECT_DIR$/../../informe_sam/.idea/informe_sam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../interactions/.idea/interactions.iml" filepath="$PROJECT_DIR$/../interactions/.idea/interactions.iml" />
     </modules>
   </component>
 </project>
